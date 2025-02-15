@@ -1,0 +1,191 @@
+/* .pricing-plans {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.pricing-plan {
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 32%;
+    text-align: center;
+    border-radius: 8px;
+}
+.pricing-plan h3 {
+    margin-bottom: 10px;
+}
+.pricing-plan button {
+    background-color: #0073aa;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.pricing-plan button:hover {
+    background-color: #005880;
+} */
+/* Make sure the container is a flex container */
+.pricing-plans {
+    display: flex;
+    justify-content: space-between;  /* Distribute items across the container */
+    gap: 10px;  /* Optional: adds spacing between items */
+}
+
+/* Style the individual pricing plans */
+.pricing-plan {
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 32%;  /* Adjust width for 3 items in a row */
+    text-align: center;
+    border-radius: 8px;
+    background-color: white; /* Default background */
+    transition: background-color 0.3s ease; /* Smooth transition for background color */
+    box-sizing: border-box; /* Ensure padding and borders don't affect width */
+}
+.pricing-plan.centered h4 {
+    color: white;  /* White color for h4 text when plan has a blue background */
+}
+/* Apply blue background color when a plan is centered */
+.pricing-plan.centered {
+    background-color: #184a5b;
+    color: white; /* Change text color for better contrast */
+}
+
+/* Default button styling */
+.pricing-plan button {
+    background-color: #184a5b;  /* Default button color */
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* Button styling when inside a centered plan (blue background) */
+.pricing-plan.centered button {
+    background-color: white;  /* White button background when plan is centered */
+    color: #184a5b;  /* Change text color to match the plan's primary color */
+}
+
+/* Button hover effect */
+.pricing-plan button:hover {
+    background-color: #184a5b;
+}
+
+.pricing-plan.centered button:hover {
+    background-color: #e0e0e0;  /* Light gray on hover when the button is white */
+}
+
+
+.option-btn {
+display: flex;
+align-items: center;
+justify-content: flex-start;
+width: 80%;
+margin: 10px auto;
+padding: 15px;
+font-size: 16px;
+border-radius: 8px;
+cursor: pointer;
+}
+
+.option-btn .icon {
+font-weight: bold;
+margin-right: 10px;
+font-size: 24px;
+color: #007acc;
+}
+     .error-message{
+    color:red;
+    font-size:14px;
+}
+    #multi-step-form .form-step { display: none; }
+    #multi-step-form .form-step:first-child { display: block; }
+    #multi-step-form button { margin: 10px 0; }
+    #multi-step-form button, #multi-step-form input {display: block; margin: 10px 0; }
+    #multi-step-form input.valid { border-color: green; }
+    #multi-step-form input.invalid { border-color: red; }
+     /* Hide the actual checkboxes */
+.custom-checkbox input[type="checkbox"] {
+    display: none;
+}
+button#continue-buton-9 {
+display: none;
+}
+button.step1-options {
+    padding: 14px;
+}
+/* Style the clickable text to look like a checkbox */
+.custom-checkbox .checkbox-text {
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 5px;
+    color: #333;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Style for when the option is selected */
+.custom-checkbox input[type="checkbox"]:checked + .checkbox-text {
+    background-color: #4CAF50;
+    color: white;
+    border-color: #4CAF50;
+}
+
+.custom-checkbox .checkbox-text:hover {
+    background-color: #f0f0f0;
+}
+/* Loader Overlay */
+.loader-overlay, .loader-overlay1 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: none;
+    background: rgba(255, 255, 255, 0.8);
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.loader-content, .loader1-content {
+    background: none; /* Ensures no background on the loader content */
+    color: #333;
+    text-align: center;
+}
+.loader-content p , .loader1-content p{
+    font-size: 18px;
+    color: #333;
+    margin-top: 20px;
+}
+.spinner {
+    margin-left: 413px;
+    width: 40px;
+    height: 40px;
+    border: 4px solid #ddd;
+    border-top-color: #4CAF50;
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    align-items: center;
+    text-align: center;
+}
+.spinner1 {
+    margin-left: 90px;
+    width: 40px;
+    height: 40px;
+    border: 4px solid #ddd;
+    border-top-color: #4CAF50;
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    align-items: center;
+    text-align: center;
+}
+@keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+

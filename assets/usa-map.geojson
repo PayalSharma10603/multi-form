@@ -1,0 +1,719 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Alabama"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -86.9023,
+            32.3182
+          ]
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Alaska"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -149.4937,
+            64.2008
+          ]
+        },
+        "id": 1
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Arizona"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -111.0937,
+            34.0489
+          ]
+        },
+        "id": 2
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Arkansas"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -92.2884,
+            34.9697
+          ]
+        },
+        "id": 3
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "California"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -119.4179,
+            36.7783
+          ]
+        },
+        "id": 4
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Colorado"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.3589,
+            39.5501
+          ]
+        },
+        "id": 5
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Connecticut"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -72.6734,
+            41.6032
+          ]
+        },
+        "id": 6
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Delaware"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5277,
+            38.9108
+          ]
+        },
+        "id": 7
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Florida"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.5158,
+            27.9944
+          ]
+        },
+        "id": 8
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Georgia"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -82.9001,
+            32.1656
+          ]
+        },
+        "id": 9
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Hawaii"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -155.5828,
+            19.8968
+          ]
+        },
+        "id": 10
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Idaho"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -114.742,
+            44.0682
+          ]
+        },
+        "id": 11
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Illinois"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -89.3985,
+            40.6331
+          ]
+        },
+        "id": 12
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Indiana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -86.1349,
+            40.2672
+          ]
+        },
+        "id": 13
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Iowa"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -93.0977,
+            41.878
+          ]
+        },
+        "id": 14
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kansas"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -98.4842,
+            39.0119
+          ]
+        },
+        "id": 15
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kentucky"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -84.27,
+            37.8393
+          ]
+        },
+        "id": 16
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Louisiana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -91.9623,
+            30.9843
+          ]
+        },
+        "id": 17
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Maine"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -69.4455,
+            45.2538
+          ]
+        },
+        "id": 18
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Maryland"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -76.6413,
+            39.0458
+          ]
+        },
+        "id": 19
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Massachusetts"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.3824,
+            42.4072
+          ]
+        },
+        "id": 20
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Michigan"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -85.6024,
+            44.3148
+          ]
+        },
+        "id": 21
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Minnesota"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -94.6859,
+            46.7296
+          ]
+        },
+        "id": 22
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mississippi"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -89.3985,
+            32.3547
+          ]
+        },
+        "id": 23
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Missouri"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -91.8318,
+            37.9643
+          ]
+        },
+        "id": 24
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Montana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -110.3626,
+            46.8797
+          ]
+        },
+        "id": 25
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Nebraska"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -99.9018,
+            41.4925
+          ]
+        },
+        "id": 26
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Nevada"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -116.4194,
+            38.8026
+          ]
+        },
+        "id": 27
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "New Hampshire"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.5724,
+            43.1939
+          ]
+        },
+        "id": 28
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "New Jersey"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.4057,
+            40.0583
+          ]
+        },
+        "id": 29
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "New Mexico"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.8701,
+            34.5199
+          ]
+        },
+        "id": 30
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "New York"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -74.0059,
+            43.2994
+          ]
+        },
+        "id": 31
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "North Carolina"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -79.0193,
+            35.7596
+          ]
+        },
+        "id": 32
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "North Dakota"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -101.002,
+            47.5515
+          ]
+        },
+        "id": 33
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Ohio"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -82.9071,
+            40.4173
+          ]
+        },
+        "id": 34
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Oklahoma"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.5164,
+            35.0078
+          ]
+        },
+        "id": 35
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Oregon"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.5542,
+            43.8041
+          ]
+        },
+        "id": 36
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pennsylvania"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.1945,
+            41.2033
+          ]
+        },
+        "id": 37
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Rhode Island"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -71.4774,
+            41.5801
+          ]
+        },
+        "id": 38
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "South Carolina"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -81.1637,
+            33.8361
+          ]
+        },
+        "id": 39
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "South Dakota"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -99.9018,
+            43.9695
+          ]
+        },
+        "id": 40
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Tennessee"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -86.5804,
+            35.5175
+          ]
+        },
+        "id": 41
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Texas"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -99.9018,
+            31.9686
+          ]
+        },
+        "id": 42
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Utah"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -111.0937,
+            39.3208
+          ]
+        },
+        "id": 43
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Vermont"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -72.5778,
+            44.5588
+          ]
+        },
+        "id": 44
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Virginia"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -78.6569,
+            37.4316
+          ]
+        },
+        "id": 45
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Washington"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.7401,
+            47.7511
+          ]
+        },
+        "id": 46
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "West Virginia"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -80.4549,
+            38.5976
+          ]
+        },
+        "id": 47
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Wisconsin"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -89.6165,
+            43.7844
+          ]
+        },
+        "id": 48
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Wyoming"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -107.2903,
+            43.0759
+          ]
+        },
+        "id": 49
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "District of Columbia"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -77.0369,
+            38.9072
+          ]
+        },
+        "id": 50
+      }
+    ]
+  }
